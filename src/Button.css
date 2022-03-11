@@ -1,0 +1,19 @@
+button:hover{
+  background-color: coral;
+  cursor: pointer;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+button {
+  height: 30px;
+  width: 80px;
+  text-align: center;
+  background-color: yellowgreen;
+  color: white;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+}
